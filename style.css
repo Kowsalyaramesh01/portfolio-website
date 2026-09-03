@@ -48,10 +48,9 @@ section {
 }
 
 #home {
-    min-height: 90vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    min-height: auto;
+    padding: 60px 10%;
+}
 }
 
 #home h1 {
